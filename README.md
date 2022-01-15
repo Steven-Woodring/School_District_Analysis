@@ -1,4 +1,4 @@
-# School District Analysis with Jupyter Notebook (Python)
+# School District Analysis with Pandas
 ### An analysis of standardized testing scores to optimize school budgeting and planning
 
 ## Overview
